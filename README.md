@@ -157,6 +157,6 @@ The values are scaled using the same scaler used during model training and passe
 
 ## Author
 
-**Your Name**
+**Ashirbad Routray**
 
-Machine Learning / Data Science Project
+01.10.2026
